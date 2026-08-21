@@ -1,0 +1,24 @@
+
+{
+  "name": "نظام إدارة مجمع المعالي التعليمي",
+  "short_name": "المعالي",
+  "description": "نظام متكامل لإدارة المدارس والطلاب يعمل بدون إنترنت",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#3482B9",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2940/2940651.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2940/2940651.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
